@@ -1,4 +1,4 @@
-package com.associations.Associations;
+package com.associations.app;
 
 /**
  * Hello world!
